@@ -1,2 +1,2 @@
 # Bank-EDA
-Bank Marketing Loan Campaign
+Bank Marketing Loan Campaign EDA
